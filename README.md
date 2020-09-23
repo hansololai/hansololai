@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently workiing on multiple web applications including
+  - Coyote [![time tracker](https://wakatime.com/badge/github/hansololai/coyote.svg)](https://wakatime.com/badge/github/hansololai/coyote)
+  - Gemini [![time tracker](https://wakatime.com/badge/github/hansololai/gemini.svg)](https://wakatime.com/badge/github/hansololai/gemini)
