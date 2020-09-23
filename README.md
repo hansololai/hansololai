@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently workiing on multiple web applications including
-  - Coyote [![time tracker](https://wakatime.com/badge/github/hansololai/coyote.svg)](https://wakatime.com/badge/github/hansololai/coyote)
-  - Gemini [![time tracker](https://wakatime.com/badge/github/hansololai/gemini.svg)](https://wakatime.com/badge/github/hansololai/gemini)
+  - Coyote [![time tracker](https://wakatime.com/badge/github/hansololai/coyote.svg)](https://wakatime.com/badge/github/hansololai/coyote) in the past 7 days
+  - Gemini [![time tracker](https://wakatime.com/badge/github/hansololai/gemini.svg)](https://wakatime.com/badge/github/hansololai/gemini) in the past 7 days
